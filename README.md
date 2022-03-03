@@ -3,7 +3,8 @@ Projeto Construindo o seu primeiro jogo de naves DIO
 
 Meu Projeto 
 
-Feito com 
+Ferramentas usadas:  
+
 - HTML
 - CSS
 - JavaScript
@@ -11,4 +12,4 @@ Feito com
 
 
 
-Made with by Fernanda G. Vargas
+#Feito por: Fernanda G. Vargas#
